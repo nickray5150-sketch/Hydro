@@ -1,0 +1,6 @@
+{
+  "name": "Water Tracker",
+  "description": "Track daily water intake, set custom goals, receive intuitive reminder notifications, and analyze your hydration analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
